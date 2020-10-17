@@ -36,7 +36,7 @@
 
 
 
-## 🚀 Sobre o projeto
+## Sobre o projeto
 Esse projeto foi desenvolvido no NLW#3, um evento totalmente gratuito de tecnologia que consiste em uma uma semana de desenvolvimento com muito código, desafios, networking e um único objetivo: impulsioná-lo ao próximo nível. 
 stanislawiaw2018/NLW-3.0-PROJETO-HAPPY
 
