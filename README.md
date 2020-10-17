@@ -24,15 +24,15 @@
 <p style="color:black">ÍNDICE</p>
 
 <p align="center">
-  <a href="#Sobre o projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Tecnologias-Utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Como-baixar-o-projeto">Como baixar o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Sobre o projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Tecnologias-Utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Como-baixar-o-projeto">Como baixar o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licença">Licença</a>
 </p>
 
 
-[Sobre o projeto](#Sobre-o-projeto) | [Tecnologias utilizadas](#Tecnologias-Utilizadas) | [Como baixar o projeto](#⏬-Como-baixar-o-projeto) | [Autor](#⌨️-Autor)
+[Sobre o projeto](#-Sobre-o-projeto) | [Tecnologias utilizadas](#-Tecnologias-Utilizadas) | [Como baixar o projeto](#-Como-baixar-o-projeto) | [Autor](#-Autor)
 
 
 
