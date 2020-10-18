@@ -38,8 +38,8 @@ stanislawiaw2018/NLW-3.0-PROJETO-HAPPY
 
 ### 🚧 ANDAMENTO DO PROJETO
 - **Dia 1:** Acelerando sua evolução 12/10 - ✔️
-- **Dia 2:** Olhando como oportunidades 13/10 - 🚧
-- **Dia 3:** A escolha da Stack 14/10 - 🚧
+- **Dia 2:** Olhando como oportunidades 13/10 - ✔️
+- **Dia 3:** A escolha da Stack 14/10 - ✔️
 - **Dia 4:** Até 2 anos em 2 meses 15/10 - 🚧
 - **Dia 5:** Milha extra 16/10 - 🚧
 
