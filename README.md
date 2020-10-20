@@ -76,10 +76,12 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## ⌨️ Autor
 
-<img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/54186220?s=460&u=6095908872ed5e96a473f85605949ad1b2efa98f&v=4" width="100px;" alt="Perfil-autor" ><br>
+<img src="https://avatars1.githubusercontent.com/u/54186220?s=460&u=6095908872ed5e96a473f85605949ad1b2efa98f&v=4" width="100px;" alt="Perfil-autor" style="border-radius: 50%"  ><br>
 <sub><b>Antonio Stanislaw</b></sub>
 
 :rocket: Exercício resolvido com muita dedicação e esforço por [Antonio Stanislaw](https://www.linkedin.com/in/antonio-stanislaw-dos-santos-47a077106/) :man_technologist:
 
 ##### Contatos
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stanislaw.iaw2018@gmail.com)](mailto:stanislaw.iaw2018@gmail.com)&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-stanislaw-dos-santos-47a077106/)](https://www.linkedin.com/in/antonio-stanislaw-dos-santos-47a077106/)
+&nbsp;[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tonni.vaz/)](https://www.instagram.com/tonni.vaz/)
+
