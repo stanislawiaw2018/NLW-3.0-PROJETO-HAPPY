@@ -24,15 +24,15 @@
 <p style="color:black">ÍNDICE</p>
 
 <p align="center">
-  <a href="#-Sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#%EF%B8%8F-tecnologias-utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Como-baixar-o-projeto">Como baixar o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Licença">Licenca</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Autor">Autor</a>
+  <a href="#-Licen%C3%A7a">Licenca</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-autor">Autor</a>
 </p>
 
 
-## Sobre o projeto
+## 🚀 Sobre o projeto
 Esse projeto foi desenvolvido no NLW#3, um evento totalmente gratuito de tecnologia que consiste em uma uma semana de desenvolvimento com muito código, desafios, networking e um único objetivo: impulsioná-lo ao próximo nível. 
 stanislawiaw2018/NLW-3.0-PROJETO-HAPPY
 
