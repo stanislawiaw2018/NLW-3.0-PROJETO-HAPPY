@@ -37,11 +37,11 @@ Esse projeto foi desenvolvido no NLW#3, um evento totalmente gratuito de tecnolo
 stanislawiaw2018/NLW-3.0-PROJETO-HAPPY
 
 ### 🚧 ANDAMENTO DO PROJETO
-- **Dia 1:** Acelerando sua evolução 12/10 - ✔️
-- **Dia 2:** Olhando como oportunidades 13/10 - ✔️
-- **Dia 3:** A escolha da Stack 14/10 - ✔️
-- **Dia 4:** Até 2 anos em 2 meses 15/10 - 🚧
-- **Dia 5:** Milha extra 16/10 - 🚧
+- **Dia 1:** Conceitos e estrutura 12/10 - ✔️
+- **Dia 2:** Back-end com Node.js 13/10 - ✔️
+- **Dia 3:** Finalizando o Front-end 14/10 - ✔️
+- **Dia 4:** Estruturando app mobile 15/10 - 🚧
+- **Dia 5:** Finalizando app mobile 16/10 - 🚧
 
 A ideia do projeto é voltada ao dia das crianças, onde retrata por sua cidade local a localização de cada orfanato e suas respectivas descrições, como normas, horários de funcionamento e visitas, disponibilidade de doações, entre outros serviços.
 
