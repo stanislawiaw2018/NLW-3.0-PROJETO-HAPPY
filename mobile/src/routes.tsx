@@ -40,7 +40,7 @@ export default function Routes(){
                     component={SelectMapPosition}
                     options={{
                         headerShown: true,
-                        header: () => <Header title="Selecione no mapa"/>
+                        header: () => <Header title="Selecione um ponto no mapa"/>
                     }}
                  />
 
