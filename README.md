@@ -5,9 +5,15 @@
 </h1>
 <h1 align="center">
 <img alt="logo rocketseat" src="https://user-images.githubusercontent.com/38081852/83981650-1e2e6680-a8f6-11ea-9f42-6df8fe809e4b.png" width="400px">
+
 </h1>
 
-<h2 align="center" style="color:black"> 🚧 Layout do Projeto 🚧<h2>
+<h1 align="center" style="color:black">Layout do Projeto <h1>
+
+<p align="center">
+<img alt="logo happy" src="./images/Logo.svg" width="200px">
+<img alt="logo rocketseat" src="./images/happy.png" width="500px">
+ </p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/antonio-stanislaw-dos-santos-47a077106/">
@@ -40,8 +46,8 @@ stanislawiaw2018/NLW-3.0-PROJETO-HAPPY
 - **Dia 1:** Conceitos e estrutura 12/10 - ✔️
 - **Dia 2:** Back-end com Node.js 13/10 - ✔️
 - **Dia 3:** Finalizando o Front-end 14/10 - ✔️
-- **Dia 4:** Estruturando app mobile 15/10 - 🚧
-- **Dia 5:** Finalizando app mobile 16/10 - 🚧
+- **Dia 4:** Estruturando app mobile 15/10 - ✔️
+- **Dia 5:** Finalizando app mobile 16/10 - ✔️
 
 A ideia do projeto é voltada ao dia das crianças, onde retrata por sua cidade local a localização de cada orfanato e suas respectivas descrições, como normas, horários de funcionamento e visitas, disponibilidade de doações, entre outros serviços.
 
@@ -53,7 +59,9 @@ A ideia do projeto é voltada ao dia das crianças, onde retrata por sua cidade 
 - [TypeScript](https://www.typescriptlang.org/)
 - [REACTJS](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
-
+- [Expo](https://expo.io/)
+- [Express](https://www.npmjs.com/package/express)
+- [TypeORM / SQLite](https://typeorm.io/#/)
 ---
 
 ## ⏬ Como baixar o projeto
@@ -66,7 +74,58 @@ A ideia do projeto é voltada ao dia das crianças, onde retrata por sua cidade 
 
 ```
 
+### INSTALAÇÃO
+
+O pacote de gerenciamento utilizado para a instalação é o **Yarn**. Em sua linha de comando:
+
+```bash
+
+# Entrar no repositório
+
+cd NLW-3.0-PROJETO-HAPPY
+
+# Entrar no diretório web e instalar as suas dependências
+
+cd web/
+yarn install
+
+# Entrar no diretório backend e instalar as suas dependências
+
+cd backend/
+yarn install
+
+# Entrar no diretório mobile e instalar as suas dependências
+
+cd mobile/
+yarn install
+
+
+
+```
+
+### COMO EXECUTAR O PROJETO
+#### BACKEND
+```bash
+# Executar para criar o banco de dados
+yarn typeorm migration:run
+
+# Rodar o backend
+yarn dev
+```
+
+#### FRONTEND E MOBILE
+```bash
+
+# Rodar aplicação web (cd web)
+yarn start
+
+# Rodar aplicação mobile (cd mobile)
+yarn start
+
+```
 ---
+
+
 
 ## 📝 Licenca
 
