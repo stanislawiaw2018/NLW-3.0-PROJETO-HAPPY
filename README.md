@@ -69,7 +69,7 @@ A ideia do projeto é voltada ao dia das crianças, onde retrata por sua cidade 
 - Executar o Seguinte comando no seu **Terminal** ou no **CMD**:
 
 ```bash
-        git clone https://github.com/stanislawiaw2018/NLW-3.0-PROJETO-HAPPY.git
+git clone https://github.com/stanislawiaw2018/NLW-3.0-PROJETO-HAPPY.git
 
 
 ```
